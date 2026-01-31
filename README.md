@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/victor-moura-69a284212/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://komarev.com/ghpvc/?username=VictorMoura00&style=for-the-badge&label=Views&color=455a64" alt="Profile Views">
@@ -57,14 +57,10 @@ Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e
 [![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=444&icon_color=000&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-</div>
-### 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoura00)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoura00)](https://github.com/VictorMoura00/VictorMoura00)
 
 <br>
