@@ -61,6 +61,16 @@ Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoura00)](https://github.com/VictorMoura00/VictorMoura00)
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=default&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&include_all_commits=true" />
+  </picture>
 
-<br>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact" />
+  </picture>
+</div>
