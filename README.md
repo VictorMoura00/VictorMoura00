@@ -54,10 +54,9 @@ Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e
 
 ### 🧠 Explorando no Momento
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" alt="Lambda">
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="Dynamo">
-<img src="https://img.shields.io/badge/Clean%20Architecture-000?style=flat-square&logo=readthedocs&logoColor=white" alt="Clean Arch">
+[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 <br>
 
