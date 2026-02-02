@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=VictorMoura00&style=for-the-badge&label=Views&color=455a64" alt="Profile Views">
 </p>
 
-<br>
-
-### ⚡ Sobre Mim
-
 Sou um desenvolvedor **Full Stack** apaixonado por construir coisas. No dia a dia, navego entre dois mundos: o desenvolvimento de softwares corporativos (ERP/Protheus) e a Web Moderna.
 
 Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e visualização de dados para quem toma decisão.
