@@ -16,7 +16,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por construir coisas. No dia a di
 Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e visualização de dados para quem toma decisão.
 
 * 💻 **O que faço:** Modernizo interfaces antigas (Angular/PO-UI), automatizo processos engessados e crio dashboards com dados tratados e analisados.
-* 🐧 **Hobby:** Usuário de Linux (Debian/Bazzite), fã de Self-Hosting e de subir containers no meu **Homelab**.
+* 🐧 **Hobby:** Usuário de Linux (Bazzite), fã de Self-Hosting e de subir containers no meu **Homelab**.
 * 🚀 **Foco:** Ferramentas modernas, novidades tecnológicas e inovação constante.
 
 <br>
