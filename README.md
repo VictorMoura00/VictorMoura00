@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9A3&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Victor!+%F0%9F%91%8B;Full+Stack+Developer;ERP+%2B+Web+Moderna;Transformando+sistemas+legados+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9A3&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Victor!+%F0%9F%91%8B;Full+Stack+Developer;" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/victormoura00">
