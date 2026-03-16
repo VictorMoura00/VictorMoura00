@@ -1,72 +1,87 @@
-<h1 align="center">E aí, eu sou o Victor! 🖖</h1>
+<div align="center">
 
-<p align="center">
-  <em>Full Stack Developer | Tech Enthusiast 🐧</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9A3&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Victor!+%F0%9F%91%8B;Full+Stack+Developer;ERP+%2B+Web+Moderna;Transformando+sistemas+legados+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-moura-69a284212/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p>
+  <a href="https://www.linkedin.com/in/victormoura00">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=VictorMoura00&style=for-the-badge&label=Views&color=455a64" alt="Profile Views">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=VictorMoura00&style=for-the-badge&color=00d9a3&label=VIEWS"/>
 </p>
 
-Sou um desenvolvedor **Full Stack** apaixonado por construir coisas. No dia a dia, navego entre dois mundos: o desenvolvimento de softwares corporativos (ERP/Protheus) e a Web Moderna.
+<sub>📍 Bahia, Brasil · 🏢 Amvox · <code>he/him</code></sub>
 
-Meu objetivo é destrancar o potencial de sistemas legados, trazendo agilidade e visualização de dados para quem toma decisão.
+</div>
 
-* 💻 **O que faço:** Modernizo interfaces antigas (Angular/PO-UI), automatizo processos engessados e crio dashboards com dados tratados e analisados.
-* 🐧 **Hobby:** Usuário de Linux (Bazzite), fã de Self-Hosting e de subir containers no meu **Homelab**.
-* 🚀 **Foco:** Ferramentas modernas, novidades tecnológicas e inovação constante.
+---
 
-<br>
+## 🧩 Quem sou eu
 
-### 🛠️ Minha Caixa de Ferramentas
+Sou um desenvolvedor **Full Stack** que vive entre dois mundos: o universo corporativo dos **ERPs (TOTVS/Protheus)** e o ecossistema da **Web Moderna**. O que me move é exatamente essa interseção — destrancar o potencial de sistemas legados e transformá-los em ferramentas ágeis, com dashboards e interfaces que realmente fazem sentido pra quem decide.
+
+Fora do trabalho, sou usuário de **Linux (Bazzite)**, entusiasta de **Self-Hosting** e vivo subindo containers no meu Homelab. Se tem um serviço que eu posso hospedar eu mesmo, pode apostar que já tentei.
+
+---
+
+## 🛠️ Stack
+
+> Tecnologias que uso no dia a dia — do backend ao infra.
 
 **Backend & Core**
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-<img src="https://img.shields.io/badge/ADVPL-005187?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="ADVPL">
-<img src="https://img.shields.io/badge/TLPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="TLPP">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-0078D7?style=flat-square&logoColor=white)
+![TLPP](https://img.shields.io/badge/TLPP-E34F26?style=flat-square&logoColor=white)
 
 **Frontend & Web**
-<br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/PO--UI-1C1E21?style=for-the-badge&logo=angular&logoColor=white" alt="PO-UI">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PO-UI](https://img.shields.io/badge/PO--UI-00AAE4?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Infra, Database & Hobbies**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🧠 Explorando no Momento
+---
 
-[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
+## 🧪 Explorando agora
 
-<br>
+> O que está rodando no meu Homelab e nos meus estudos este ano:
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+## 📊 Stats
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=default&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&include_all_commits=true" />
-  </picture>
 
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact" />
-  </picture>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorMoura00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoura00&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&hide_border=false" />
+
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=VictorMoura00&theme=tokyonight&border_radius=10&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorMoura00&theme=tokyo-night&hide_border=true&radius=10" />
+
+</div>
+
+---
